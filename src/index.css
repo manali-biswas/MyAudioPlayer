@@ -1,0 +1,52 @@
+html,body{
+	height:100%;
+	width:100%;
+}
+body{
+	background:linear-gradient(-45deg,#8676e8,#951cd6,#e872bd,#e80e8d);
+	position:absolute;
+	background-size: 400% 400%;
+	animation: gradient 10s ease infinite;
+	margin:0 0 0 0;
+}
+
+@keyframes gradient{
+	0%{
+		background-position: 0% 50%;		
+	}
+	
+	50%{
+		background-position:50% 100%;
+	}
+	
+	100%{
+		background-position:0% 50%;
+	}
+}
+.title{
+	text-align:center;
+	font-family: 'Roboto', sans-serif;
+	font-weight:bold;
+	border-bottom: 2px solid black;
+}
+
+.list{
+	font-weight:700;
+	font-family: 'Noto Sans JP', sans-serif;
+}
+
+.frame{
+	display:flex;
+	flex-direction:column;
+	align-items:center;
+	justify-content:center;
+	
+}
+
+button{
+	background-color:darkorchid;
+  border-radius:70%;
+  padding: 10px 25px;
+  font-size: 16px;
+  color:white;
+}
