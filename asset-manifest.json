@@ -1,22 +1,26 @@
 {
   "files": {
-    "main.css": "/MyAudioPlayer/static/css/main.792ef511.chunk.css",
-    "main.js": "/MyAudioPlayer/static/js/main.0c8b7c77.chunk.js",
-    "main.js.map": "/MyAudioPlayer/static/js/main.0c8b7c77.chunk.js.map",
+    "main.css": "/MyAudioPlayer/static/css/main.91386045.chunk.css",
+    "main.js": "/MyAudioPlayer/static/js/main.778ca94e.chunk.js",
+    "main.js.map": "/MyAudioPlayer/static/js/main.778ca94e.chunk.js.map",
     "runtime-main.js": "/MyAudioPlayer/static/js/runtime-main.73872cd6.js",
     "runtime-main.js.map": "/MyAudioPlayer/static/js/runtime-main.73872cd6.js.map",
-    "static/js/2.4b5442bf.chunk.js": "/MyAudioPlayer/static/js/2.4b5442bf.chunk.js",
-    "static/js/2.4b5442bf.chunk.js.map": "/MyAudioPlayer/static/js/2.4b5442bf.chunk.js.map",
+    "static/css/2.2250eaf4.chunk.css": "/MyAudioPlayer/static/css/2.2250eaf4.chunk.css",
+    "static/js/2.da6dfe42.chunk.js": "/MyAudioPlayer/static/js/2.da6dfe42.chunk.js",
+    "static/js/2.da6dfe42.chunk.js.map": "/MyAudioPlayer/static/js/2.da6dfe42.chunk.js.map",
     "index.html": "/MyAudioPlayer/index.html",
-    "precache-manifest.6ec9116b0cc23a923e7aaa9a3d1f5940.js": "/MyAudioPlayer/precache-manifest.6ec9116b0cc23a923e7aaa9a3d1f5940.js",
+    "precache-manifest.eb0ae7151a8bcf45e8094c7e38c1f0de.js": "/MyAudioPlayer/precache-manifest.eb0ae7151a8bcf45e8094c7e38c1f0de.js",
     "service-worker.js": "/MyAudioPlayer/service-worker.js",
-    "static/css/main.792ef511.chunk.css.map": "/MyAudioPlayer/static/css/main.792ef511.chunk.css.map",
-    "static/js/2.4b5442bf.chunk.js.LICENSE.txt": "/MyAudioPlayer/static/js/2.4b5442bf.chunk.js.LICENSE.txt"
+    "static/css/2.2250eaf4.chunk.css.map": "/MyAudioPlayer/static/css/2.2250eaf4.chunk.css.map",
+    "static/css/main.91386045.chunk.css.map": "/MyAudioPlayer/static/css/main.91386045.chunk.css.map",
+    "static/js/2.da6dfe42.chunk.js.LICENSE.txt": "/MyAudioPlayer/static/js/2.da6dfe42.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.min.css": "/MyAudioPlayer/static/media/fontawesome-webfont.fee66e71.woff"
   },
   "entrypoints": [
     "static/js/runtime-main.73872cd6.js",
-    "static/js/2.4b5442bf.chunk.js",
-    "static/css/main.792ef511.chunk.css",
-    "static/js/main.0c8b7c77.chunk.js"
+    "static/css/2.2250eaf4.chunk.css",
+    "static/js/2.da6dfe42.chunk.js",
+    "static/css/main.91386045.chunk.css",
+    "static/js/main.778ca94e.chunk.js"
   ]
 }
